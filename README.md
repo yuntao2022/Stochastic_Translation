@@ -8,7 +8,7 @@ This repository contains codes accompanying our paper:
 
 ##### Email: `yuntaolu@berkeley.edu` and `xyz@fudan.edu.cn`  
 
-##### Main text available through arXiv: ``2511.14913`` (Submitted to Physical Review Research)
+##### Main text available through arXiv: ``2511.14913`` (In Press, Physical Review Research)
 
 ---
 
