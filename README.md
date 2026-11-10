@@ -9,7 +9,7 @@ This repository contains codes accompanying our paper:
 ##### Email: `yuntaolu@berkeley.edu` and `xyz@fudan.edu.cn`  
 
 ##### Cite: Y. Lu and Y. Zhang, *Asymptotics of protein number distribution in stochastic gene expression models under burst approximation*, Phys. Rev. Res., 8 (2026), 043148.
-##### URL: `https://doi.org/10.1103/8t2f-bpk1`
+##### DOI: `https://doi.org/10.1103/8t2f-bpk1`.
 
 ---
 
